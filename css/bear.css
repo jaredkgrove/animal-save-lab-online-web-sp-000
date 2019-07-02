@@ -14,7 +14,7 @@ html {
   #bear img{
     position: absolute;
     left:800px;
-    display: none;
+    /* display: none; */
   }
 
 }
