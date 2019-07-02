@@ -14,9 +14,4 @@ html {
     top: 0px;
 
   }
-  @media screen and (max-width: 406px) {
-    #monkey {
-      top: 550px;
-
-    }
 }
