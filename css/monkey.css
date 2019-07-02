@@ -12,5 +12,11 @@ html {
 @media screen and (min-width: 406px) and (max-width: 1170px) {
   #monkey {
     top: 0px;
+
   }
+  @media screen and (max-width: 400px) {
+    #monkey {
+      top: 550px;
+
+    }
 }
