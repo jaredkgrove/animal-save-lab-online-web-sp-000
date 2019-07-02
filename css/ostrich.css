@@ -11,7 +11,8 @@ html {
 /* Write your solution here */
 @media screen (max-width: 1196px) {
   #ostrich{
-    top: 0;
+    position: relative;
+    top: -100px;
   }
 
 }
