@@ -13,6 +13,7 @@ html {
 @media screen and (min-width: 1196px) {
   #bear img{
     left:800px;
+    display: none;
   }
 
 }
